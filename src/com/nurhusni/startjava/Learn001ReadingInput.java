@@ -18,6 +18,7 @@ public class Learn001ReadingInput {
 
         // Second way
         int birthYear = Integer.parseInt(sc.nextLine());
+
         sc.close();
     }
 }

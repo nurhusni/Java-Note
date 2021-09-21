@@ -4,11 +4,15 @@ public class Learn000Basic {
 
     public static void main(String[] args) {
 
-        // Note from learning Java
+        // Note From Learning Java
         System.out.println("Hello World!");
 
-        // Data types and how to assign variables
-        // String is reference type (stores data)
+        // How Java Program Is Executed
+        // 1. The source code (.java) is compiled into bytecode (.class) using javac compiler
+        // 2. JVM executes the bytecode and converts it into machine code
+
+        // Data Types and How to Assign Variables
+        // String is a reference type (stores data)
         // The others are primitive types (stores address in the memory)
         boolean booleanType = true; // 1 bit | true or false
 
@@ -17,13 +21,13 @@ public class Learn000Basic {
         int integerType = 2147483647; // 4 bytes | from -2,147,483,648
         long longType = 9223372036854775807L; // 8 bytes | from -9,223,372,036,854,775,808 | ends with 'L'
 
-        float floatType = 3.141592f; // 4 bytes | 6-7 decimal digits | ends with 'f'
-        double doubleType = 3.14653589793; // 8 bytes | 15 decimal digits
+        float floatType = 3.1415926f; // 4 bytes | 6-7 decimal digits | ends with 'f'
+        double doubleType = 3.141592653589793; // 8 bytes | 15 decimal digits
 
         char characterType = 'a'; // 2 bytes | single character or ASCII values | single quotes
         String stringType = "kata"; // various | multiple characters | double quotes
 
-        // Escape sequences
+        // Escape Sequences
         String newLine = "\n";
         String tab = "\t";
         String doubleQuote = "\"";
