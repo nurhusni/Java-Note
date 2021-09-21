@@ -1,6 +1,6 @@
-package com.nurhusni.startjavabc;
+package com.nurhusni.startjava;
 
-public class BC04Math {
+public class Learn003Math {
 
     public static void main(String[] args) {
 

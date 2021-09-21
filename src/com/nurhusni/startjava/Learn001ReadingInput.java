@@ -1,8 +1,8 @@
-package com.nurhusni.startjavabc;
+package com.nurhusni.startjava;
 
 import java.util.Scanner;
 
-public class BC02ReadingInput {
+public class Learn001ReadingInput {
 
     public static void main(String[] args) {
 

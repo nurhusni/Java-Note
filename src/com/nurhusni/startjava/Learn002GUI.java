@@ -1,8 +1,8 @@
-package com.nurhusni.startjavabc;
+package com.nurhusni.startjava;
 
 import javax.swing.JOptionPane;
 
-public class BC03GUI {
+public class Learn002GUI {
 
     public static void main(String[] args) {
 

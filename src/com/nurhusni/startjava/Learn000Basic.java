@@ -1,6 +1,6 @@
-package com.nurhusni.startjavabc;
+package com.nurhusni.startjava;
 
-public class BC01Basic {
+public class Learn000Basic {
 
     public static void main(String[] args) {
 
