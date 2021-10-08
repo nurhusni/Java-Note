@@ -4,7 +4,7 @@ public class Learn000Basic {
 
     public static void main(String[] args) {
 
-        // Note From Learning Java
+        // Study Note from Learning Java
         System.out.println("Hello World!");
 
         // How Java Program Is Executed

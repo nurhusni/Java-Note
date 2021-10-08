@@ -14,7 +14,5 @@ public class Learn003Math {
         double roundValue = Math.round(x); // Returns 5.0
         double roundUpValue = Math.ceil(x); // Returns 5.0
         double roundDownValue = Math.floor(x); // Returns 4.0
-
-        System.out.println(roundValue + " " + roundUpValue + " " + roundDownValue);
     }
 }
