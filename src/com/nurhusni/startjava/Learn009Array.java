@@ -55,19 +55,23 @@ public class Learn009Array {
 
         // =========================================================
         // Loop through array
+
+        // Enhanced for
         // Shortcut: carBrands.for
         for (String car : carBrands) {
-            System.out.println("First way of looping through array");
+            System.out.println(car);
         }
 
+        // For loop
         // Shortcut: carBrands.fori
         for (int i = 0; i < carBrands.length; i++) {
-            System.out.println("Second way of looping through array");
+            System.out.println(carBrands[i]);
         }
 
+        // Reverse for loop
         // Shortcut: carBrands.forr
         for (int i = carBrands.length - 1; i >= 0; i--) {
-            System.out.println("Reverse looping");
+            System.out.println(carBrands[i]);
         }
 
     }
