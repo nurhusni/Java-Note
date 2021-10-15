@@ -2,7 +2,7 @@ package com.nurhusni.startjava;
 
 import java.util.Scanner;
 
-public class Learn015TernaryOperators {
+public class Learn016TernaryOperators {
 
     public static void main(String[] args) {
 
