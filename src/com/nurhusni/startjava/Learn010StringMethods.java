@@ -1,7 +1,5 @@
 package com.nurhusni.startjava;
 
-import java.util.Locale;
-
 public class Learn010StringMethods {
 
     public static void main(String[] args) {
