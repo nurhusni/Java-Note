@@ -10,13 +10,13 @@ My note when learning Java. This note covers everything from basic.
 ### Running the Program
 ##### Using Bash terminal
 ```bash
-# Change directory to code
-cd src\com\nurhusni\startjava
+# Change directory to src
+cd src
 
 # Compile the source code into the bytecode
 # This creates Learn000Basic.class
-javac Learn000Basic.java
+javac com/nurhusni/startjava/Learn000Basic.java
 
 # Execute the bytecode program using JVM
-java Learn000Basic
+java com/nurhusni/startjava/Learn000Basic
 ```
