@@ -17,6 +17,6 @@ cd src\com\nurhusni\startjava
 # This creates Learn000Basic.class
 javac Learn000Basic.java
 
-# Execute the program using JVM
+# Execute the bytecode program using JVM
 java Learn000Basic
 ```
