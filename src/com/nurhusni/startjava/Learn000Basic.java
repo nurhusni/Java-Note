@@ -25,6 +25,11 @@ public class Learn000Basic {
         double doubleType = 3.141592653589793; // 8 bytes | 15 decimal digits
 
         char characterType = 'a'; // 2 bytes | single character or ASCII values | single quotes
+
+        // Create a string
+        String fullStringType = new String("kata");
+
+        // It can be shortened to
         String stringType = "kata"; // various | multiple characters | double quotes
 
         // Escape Sequences
